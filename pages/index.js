@@ -19,7 +19,7 @@ export default function Home() {
 
     <div className={styles.whatsapp}>
       <a href="https://wa.me/5565981106000?text=Olá Luís, vim do seu site e gostaria de mais informações." target="_blank" rel="noreferrer">
-        <Image src="/whatsapp.svg" alt="Fale conosco através do whatsapp" width={60} height={60} />
+        <Image src="/whatsapp.svg" alt="Fale conosco através do whatsapp" width={50} height={50} />
       </a>
     </div>
     </div>
